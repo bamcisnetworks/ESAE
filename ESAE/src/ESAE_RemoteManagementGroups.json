@@ -1,0 +1,56 @@
+[
+	{
+		"Name" : "UG-Domain-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+	},
+  {
+    "Name": "UG-Enterprise-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-GPO-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+		"Name" : "UG-DNS-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Schema-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Server-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Builtin-Administrators",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Workstation-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Account-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+	}
+]

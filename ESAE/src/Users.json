@@ -1,0 +1,27 @@
+[
+	{
+		"GivenName" : "Michael",
+		"sn" : "Haken",
+		"DisplayName" : "Michael Haken ESAE Domain Admin",
+		"SamAccountName" : "hakenmt.esae.da",
+		"Membership" : [
+			"UG-ESAE-Domain-Admins"
+		],
+		"UserAccountControl" : 262656,
+		"msDS-SupportedEncryptionTypes" : 24,
+		"Path" : "OU=Users,OU=User Resources,OU=ESAE Privileged Resources"
+	},
+	{
+		"GivenName" : "Michael",
+		"sn" : "Haken",
+		"DisplayName" : "Michael Haken ESAE Enterprise Admin",
+		"SamAccountName" : "hakenmt.esae.ea",
+    "Membership": [
+      "UG-ESAE-Enterprise-Admins",
+      "UG-ESAE-Schema-Admins"
+    ],
+		"UserAccountControl" : 262656,
+		"msDS-SupportedEncryptionTypes" : 24,
+		"Path" : "OU=Users,OU=User Resources,OU=ESAE Privileged Resources"
+	}
+]

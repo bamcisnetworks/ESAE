@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "UG-ESAE-Domain-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "MemberOf": [
+      "Domain Admins"
+    ],
+    "Path": "OU=User Groups,OU=User Resources,OU=ESAE Privileged Resources"
+  },
+  {
+    "Name": "UG-ESAE-GPO-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "MemberOf": [
+      "Group Policy Creator Owners"
+    ],
+    "Path": "OU=User Groups,OU=User Resources,OU=ESAE Privileged Resources"
+  },
+  {
+		"Name" : "UG-ESAE-DNS-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"MemberOf" : [
+			"DnsAdmins"
+		],
+		"Path" : "OU=User Groups,OU=User Resources,OU=ESAE Privileged Resources"
+	},
+	{
+		"Name" : "UG-ESAE-Enterprise-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"MemberOf" : [
+			"Enterprise Admins"
+		],
+		"Path" : "OU=User Groups,OU=User Resources,OU=ESAE Privileged Resources"
+	},
+	{
+		"Name" : "UG-ESAE-Schema-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"MemberOf" : [
+			"Schema Admins"
+		],
+		"Path" : "OU=User Groups,OU=User Resources,OU=ESAE Privileged Resources"
+	},
+	{
+		"Name" : "UG-ESAE-Server-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"MemberOf" : [
+			"Server Operators"
+		],
+		"Path" : "OU=User Groups,OU=User Resources,OU=ESAE Privileged Resources"
+	},
+  {
+    "Name": "UG-ESAE-Administrators",
+    "Scope": "Global",
+    "Category": "Security",
+    "MemberOf": [
+      "Administrators"
+    ],
+    "Path": "OU=User Groups,OU=User Resources,OU=ESAE Privileged Resources"
+  },
+  {
+		"Name" : "UG-ESAE-Account-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"MemberOf" : [
+			"Account Operators"
+		],
+		"Path" : "OU=User Groups,OU=User Resources,OU=ESAE Privileged Resources"
+	}
+]

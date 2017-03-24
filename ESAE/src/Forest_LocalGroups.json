@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "UG-Domain-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "MemberOf": [
+      "Domain Admins"
+    ],
+    "Path": "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-GPO-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "MemberOf": [
+      "Group Policy Creator Owners"
+    ],
+    "Path": "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+		"Name" : "UG-DNS-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"MemberOf" : [
+			"DnsAdmins"
+		],
+		"Path" : "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Enterprise-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"MemberOf" : [
+			"Enterprise Admins"
+		],
+		"Path" : "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Schema-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"MemberOf" : [
+			"Schema Admins"
+		],
+		"Path" : "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Server-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"MemberOf" : [
+			"Server Operators"
+		],
+		"Path" : "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+	},
+  {
+    "Name": "UG-Builtin-Administrators",
+    "Scope": "Global",
+    "Category": "Security",
+    "MemberOf": [
+      "Administrators"
+    ],
+    "Path": "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+		"Name" : "UG-Account-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"MemberOf" : [
+			"Account Operators"
+		],
+		"Path" : "OU=User Groups,OU=User Resources,OU=Privileged Resources"
+	}
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "Label": "ESAE Privileged Resources",
+    "Children": [
+      {
+        "Label": "Admins",
+        "Children": [ ]
+      },
+      {
+        "Label": "Workstations",
+        "Children": [ ]
+      },
+      {
+        "Label": "User Groups",
+        "Children": [ ]
+      },
+      {
+        "Label": "Resource Groups",
+        "Children": [ ]
+      },
+      {
+        "Label": "Servers",
+        "Children": [
+          {
+            "Label": "Windows Servers",
+            "Children": [
+              {
+                "Label": "WSUS",
+                "Children": [ ]
+              },
+              {
+                "Label": "Change Auditor",
+                "Children": [ ]
+              }
+            ]
+          },
+          {
+            "Label": "Non Windows Servers",
+            "Children": [ ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Label": "Privileged Resources",
+    "Children": [
+      {
+        "Label": "Admins",
+        "Children": [
+          {
+            "Label": "DS Admins",
+            "Children": [ ]
+          },
+          {
+            "Label": "Root Admins",
+            "Children": [ ]
+          },
+          {
+            "Label": "Dev Admins",
+            "Children": [ ]
+          }
+        ]
+      },
+      {
+        "Label": "Workstations",
+        "Children": [ ]
+      },
+      {
+        "Label": "User Groups",
+        "Children": [
+          {
+            "Label": "DS User Groups",
+            "Children": [ ]
+          },
+          {
+            "Label": "Root User Groups",
+            "Children": [ ]
+          },
+          {
+            "Label": "Dev User Groups",
+            "Children": [ ]
+          }
+        ]
+      },
+      {
+        "Label": "Resource Groups",
+        "Children": [
+          {
+            "Label": "DS Resource Groups",
+            "Children": [ ]
+          },
+          {
+            "Label": "Root Resource Groups",
+            "Children": [ ]
+          },
+          {
+            "Label": "Dev Resource Groups",
+            "Children": [ ]
+          }
+        ]
+      }
+    ]
+  }
+]

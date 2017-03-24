@@ -1,0 +1,188 @@
+[
+	{
+		"Name" : "UG-DS-Domain-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=DS User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-DS-Server-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=DS User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-DS-Administrators",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=DS User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-DS-Workstation-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=DS User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+  {
+    "Name": "UG-DS-Account-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=DS User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-DS-GPOAdmin-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=DS User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-DS-GPOAdmin-Approvers",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=DS User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-DS-GPOAdmin-Creators",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=DS User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-DS-GPOAdmin-Reviewers",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=DS User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+		"Name" : "UG-Root-Enterprise-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=Root User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+  {
+    "Name": "UG-Root-Schema-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=Root User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+		"Name" : "UG-Root-Domain-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=Root User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Root-Server-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=Root User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Root-Administrators",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=Root User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Root-Workstation-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=Root User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+  {
+    "Name": "UG-Root-Account-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=Root User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-Root-GPOAdmin-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=Root User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-Root-GPOAdmin-Approvers",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=Root User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-Root-GPOAdmin-Creators",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=Root User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-Root-GPOAdmin-Reviewers",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=Root User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+		"Name" : "UG-Dev-Enterprise-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=Dev User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+  {
+    "Name": "UG-Dev-Schema-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=Dev User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+		"Name" : "UG-Dev-Domain-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=Dev User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Dev-Server-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=Dev User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Dev-Administrators",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=Dev User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+	{
+		"Name" : "UG-Dev-Workstation-Admins",
+		"Scope" : "Global",
+		"Category" : "Security",
+		"Path" : "OU=Dev User Groups,OU=User Groups,OU=Privileged Resources"
+	},
+  {
+    "Name": "UG-Dev-Account-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=Dev User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-Dev-GPOAdmin-Admins",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=Dev User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-Dev-GPOAdmin-Approvers",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=Dev User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-Dev-GPOAdmin-Creators",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=Dev User Groups,OU=User Groups,OU=Privileged Resources"
+  },
+  {
+    "Name": "UG-Dev-GPOAdmin-Reviewers",
+    "Scope": "Global",
+    "Category": "Security",
+    "Path": "OU=Dev User Groups,OU=User Groups,OU=Privileged Resources"
+  }
+]

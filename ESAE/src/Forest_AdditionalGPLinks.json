@@ -1,0 +1,74 @@
+[
+  {
+    "GPO": "VDI - View Agent Configuration",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+    "GPO": "VDI - View Agent Configuration",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Operations"
+  },
+  {
+    "GPO": "VDI - View UI Optimization",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+    "GPO": "VDI - View UI Optimization",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Operations"
+  },
+  {
+    "GPO": "VDI - USB Device Filtering",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+    "GPO": "VDI - USB Device Filtering",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Operations"
+  },
+  {
+    "GPO": "VDI - USB Storage Allow Override",
+    "Enforced": "No",
+    "OU" :  "OU=Workstations,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+    "GPO": "STIG EXEMPTION - VDI",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+    "GPO": "STIG EXEMPTION - VDI",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Operations"
+  },
+  {
+    "GPO": "VDI - UseProfilePathExtensionVersion",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+    "GPO": "VDI - UseProfilePathExtensionVersion",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Operations"
+  },
+  {
+    "GPO": "Enterprise - Background Settings",
+    "Enforced": "No",
+    "OU": ""
+  },
+  {
+    "GPO": "STIG EXEMPTION - Member Server Allow Domain Admin Logon",
+    "Enforced": "No",
+    "Order": "1",
+    "OU": "OU=Windows Servers,OU=Server Resources,OU=Privileged Resources"
+  },
+  {
+    "GPO": "STIG EXEMPTION - Disable FIPS Enforcement",
+    "Enforced": "No",
+    "Order": "1",
+    "OU": "OU=Windows Servers,OU=Server Resources,OU=Privileged Resources"
+  }
+]

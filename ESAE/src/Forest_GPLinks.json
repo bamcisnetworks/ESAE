@@ -1,0 +1,118 @@
+[
+	{
+		"GPO": "STIG - Windows Server 2012 R2 Base",
+		"Enforced": "No",
+		"OU": "OU=Windows Servers,OU=Server Resources,OU=Privileged Resources"
+	},
+  {
+    "GPO": "STIG - Windows Server 2012 R2 Base",
+    "Enforced": "No",
+    "OU": "OU=Domain Controllers"
+  },
+  {
+		"GPO" : "STIG - Windows Server 2012 R2 Base",
+		"Enforced" : "No",
+		"OU" : "OU=Windows Servers,OU=Server Resources,OU=Operations"
+	},
+  {
+    "GPO": "STIG - Windows Server 2012 R2 Member Server",
+    "Enforced": "No",
+    "OU": "OU=Windows Servers,OU=Server Resources,OU=Privileged Resources"
+  },
+  {
+		"GPO" : "STIG - Windows Server 2012 R2 Member Server",
+		"Enforced" : "No",
+		"OU" : "OU=Windows Servers,OU=Server Resources,OU=Operations"
+	},
+	{
+		"GPO" : "STIG - Windows Server 2012 R2 AD Management",
+		"Enforced" : "No",
+		"OU" : "OU=Windows Servers,OU=Server Resources,OU=Privileged Resources"
+	},
+	{
+		"GPO" : "STIG - Windows Server 2012 R2 Domain Controller",
+		"Enforced" : "No",
+		"OU" : "OU=Domain Controllers"
+	},
+  {
+    "GPO": "STIG - Windows 8.1 Base",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+		"GPO" : "STIG - Windows 8.1 Base",
+		"Enforced" : "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Operations"
+	},
+	{
+		"GPO" : "STIG - Windows 8.1 AD Management",
+		"Enforced" : "No",
+		"OU" : "OU=Workstations,OU=User Resources,OU=Privileged Resources"
+	},
+	{
+		"GPO" : "STIG - Microsoft Office",
+		"Enforced" : "No",
+		"OU" : ""
+	},
+	{
+		"GPO" : "STIG - JRE",
+		"Enforced" : "No",
+		"OU" : ""
+	},
+	{
+		"GPO" : "STIG - Google Chrome",
+		"Enforced" : "No",
+		"OU" : ""
+	},
+	{
+		"GPO" : "STIG - Mozilla Firefox",
+		"Enforced" : "No",
+		"OU" : ""
+	},
+	{
+		"GPO" : "STIG - Internet Explorer",
+		"Enforced" : "No",
+		"OU" : ""
+	},
+	{
+		"GPO" : "Admin -",
+		"Enforced" : "No",
+		"OU" : ""
+	},
+	{
+		"GPO" : "LocalAdmins - Servers AD Management",
+		"Enforced" : "No",
+		"OU" : "OU=Windows Servers,OU=Server Resources,OU=Privileged Resources"
+	},
+  {
+    "GPO": "LocalAdmins - Servers Non AD Management",
+    "Enforced": "No",
+    "OU": "OU=Windows Servers,OU=Server Resources,OU=Privileged Resources"
+  },
+  {
+		"GPO" : "LocalAdmins - Servers Non AD Management",
+		"Enforced" : "No",
+		"OU" : "OU=Windows Servers,OU=Server Resources,OU=Operations"
+	},
+	{
+		"GPO" : "LocalAdmins - Workstations AD Management",
+		"Enforced" : "No",
+		"OU" : "OU=Workstations,OU=User Resources,OU=Privileged Resources"
+	},
+  {
+    "GPO": "LocalAdmins - Workstations Non AD Management",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Privileged Resources"
+  },
+  {
+    "GPO": "LocalAdmins - Workstations Non AD Management",
+    "Enforced": "No",
+    "OU": "OU=Workstations,OU=User Resources,OU=Operations"
+  },
+  {
+    "GPO": "STIG EXEMPTION - Disable RPC Client Auth",
+    "Enforced": "No",
+    "Order": "1",
+    "OU": "OU=Domain Controllers"
+  }
+]

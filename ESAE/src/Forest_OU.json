@@ -1,0 +1,104 @@
+[
+	{
+		"Label" : "Privileged Resources",
+		"Children" : [
+			{
+				"Label" : "User Resources",
+				"Children" : [
+					{
+						"Label" : "Users",
+						"Children" : []
+					},
+					{
+						"Label" : "User Groups",
+						"Children" : []
+					},
+					{
+						"Label" : "Workstations",
+						"Children" : []
+					},
+          {
+            "Label": "Resource Groups",
+            "Children": [ ]
+          },
+          {
+            "Label": "Service Accounts",
+            "Children": [ ]
+          }
+				]
+			},
+			{
+				"Label" : "Server Resources",
+				"Children" : [
+					{
+						"Label" : "Windows Servers",
+						"Children" : []
+					},
+					{
+						"Label" : "Linux Servers",
+						"Children" : []
+					},
+					{
+						"Label" : "Non-Windows Computer Objects",
+						"Children" : []
+					},
+					{
+						"Label" : "Resource Groups",
+						"Children" : []
+					}			
+				]
+			}
+		]
+	},
+	{
+		"Label" : "Operations",
+		"Children" : [
+			{
+				"Label" : "User Resources",
+				"Children" : [
+					{
+						"Label" : "Users",
+						"Children" : []
+					},
+					{
+						"Label" : "User Groups",
+						"Children" : []
+					},
+					{
+						"Label" : "Workstations",
+						"Children" : []
+					},
+          {
+            "Label": "Resource Groups",
+            "Children": [ ]
+          },
+          {
+            "Label": "Service Accounts",
+            "Children": [ ]
+          }
+				]
+			},
+			{
+				"Label" : "Server Resources",
+				"Children" : [
+					{
+						"Label" : "Windows Servers",
+						"Children" : []
+					},
+					{
+						"Label" : "Linux Servers",
+						"Children" : []
+					},
+					{
+						"Label" : "Non-Windows Computer Objects",
+						"Children" : []
+					},
+					{
+						"Label" : "Resource Groups",
+						"Children" : []
+					}			
+				]
+			}
+		]
+	}
+]
